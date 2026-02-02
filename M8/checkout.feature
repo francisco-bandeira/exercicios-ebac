@@ -1,5 +1,10 @@
 Funcionalidade: Cadastro no checkout
-
+      Como cliente da EBAC-SHOP
+      Quero concluir meu cadastro   
+      Para finalizar minha compra
+  
+  
+  
   Contexto:
     Dado que estou na tela de cadastro do checkout
 

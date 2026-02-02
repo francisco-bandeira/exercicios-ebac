@@ -1,7 +1,14 @@
 Funcionalidade: Configurar produto
+    Como cliente da EBAC-SHOP
+    Quero configurar meu produto escolhido
+    Para depois inserir no carrinho
+
+
 
   Contexto:
     Dado que estou na página de configuração de produto
+    
+
 
   Esquema do Cenário: Configurar produto com seleções obrigatórias
     Quando seleciono a cor "<cor>"

@@ -1,4 +1,9 @@
 Funcionalidade: Login na plataforma
+      Como cliente da EBAC-SHOP
+      Quero fazer o login na plataforma  
+      Para visualizar meus dados e finalizar compras
+
+
 
   Contexto:
     Dado que estou na tela de login
